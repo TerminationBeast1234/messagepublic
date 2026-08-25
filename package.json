@@ -1,6 +1,7 @@
 {
   "name": "vr-messaging-server",
   "version": "1.0.0",
+  "description": "Global messaging server for VR game",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
